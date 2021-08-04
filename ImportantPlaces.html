@@ -1,0 +1,29 @@
+---
+layout: default
+permalink: /places/
+---
+<link href='/assets/css/collapsible.css' rel='stylesheet' type='text/css'>
+<section id='content'>
+
+    <h1>Important Places</h1>
+    {% for item in site.data.ImportantPlaces %}
+    <button type="button" class="collapsible">{{item.name}}</button>
+    <div class="content">
+        {% if item.business %} 
+            {% if item.businessLink %}
+                <h3><a href={{ item.businessLink }}> {{item.business}}</a></h3>
+            {% else %}
+                <h3>{{item.business}}</h3>
+            {% endif %}
+        {% endif %}
+      <table>
+          <tr><td><a href={{ item.map }}> {{item.address}}</a></td></tr>
+          {% if item.phone %}
+          <tr><td>{{item.phone}}</td></tr>
+          {% endif %}
+      </table>
+    </div> 
+    {% endfor %}
+    
+    </section>
+

@@ -1,0 +1,33 @@
+- name: Vrbo
+  address: 293 Tanglewood Drive, Killington VT 05751
+  map: https://www.google.com/maps/place/293+Tanglewood+Drive+Killington+VT+05751/
+- name: Emergency Vet
+  business: Ethos Vet
+  businessLink: https://saves.ethosvet.com/
+  phone: (603) 306-0007
+  address: 63 Evans Drive, Lebanon, NH 03766
+  map: https://www.google.com/maps/place/SAVES+-+Small+Animal+Veterinary+Emergency+%26+Specialty/@43.6507378,-72.250576,17z/data=!3m1!4b1!4m5!3m4!1s0x4cb4b44e69e75395:0xc77f1291a780fd23!8m2!3d43.6508745!4d-72.248341
+- name: Urgent Care
+  business: ClearChoiceMD Urgent Care
+  businessLink: https://ccmdcenters.com/locations/rutland-vt
+  phone: (802) 772-4165
+  address: 173 S Main St, Rutland, VT 05701
+  map: https://www.google.com/maps/place/ClearChoiceMD+Urgent+Care/@43.5932405,-72.9700388,14z/data=!4m16!1m9!2m8!1surgent+care!3m6!1surgent+care!2s293+Tanglewood+Dr,+Killington,+VT+05751!3s0x89e02a399625271d:0x89fd2f7982396938!4m2!1d-72.7850975!2d43.6610316!3m5!1s0x0:0xb183508ea4611af!8m2!3d43.5966256!4d-72.9703463!15sCgt1cmdlbnQgY2FyZZIBEnVyZ2VudF9jYXJlX2NlbnRlcg
+- name: Hospital
+  business: Rutland Regional Medical Center
+  businessLink: https://www.rrmc.org/locations/profile/rutland-regional-medical-center/
+  phone: +18027757111
+  address: 160 Allen St, Rutland, VT 05701
+  map: https://www.google.com/maps/place/Rutland+Regional+Medical+Center/@43.5906132,-72.9784934,13z/data=!4m16!1m9!2m8!1shospital!3m6!1shospital!2s293+Tanglewood+Dr,+Killington,+VT+05751!3s0x89e02a399625271d:0x89fd2f7982396938!4m2!1d-72.7850975!2d43.6610316!3m5!1s0x0:0x55a2fdf20ad3fd69!8m2!3d43.5983353!4d-72.9550994!15sCghob3NwaXRhbFoKIghob3NwaXRhbJIBEGdlbmVyYWxfaG9zcGl0YWyaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUjNOa3RpTUZaM0VBRQ
+- name: 
+  business:
+  businessLink:
+  phone:
+  address:
+  map:
+- name: 
+  business:
+  businessLink:
+  phone:
+  address:
+  map:
