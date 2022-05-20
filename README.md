@@ -1,2 +1,2 @@
 # Vacation
-\\$a
+$a = b$
